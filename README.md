@@ -17,7 +17,7 @@ I'm a recent graduate in Informatics from Aristotle University of Thessaloniki, 
 **BSc in Informatics**  
 *Aristotle University of Thessaloniki*  
 
-- 🧠 **Thesis:** Deep Neural Networks for Robotic Arm Control (ASL Gesture Recognition using MuJoCo)
+- 🧠 **Thesis:** Deep Neural Networks for Robotic Arm Control (ASL Gesture Recognition using MuJoCo)[here](https://github.com/annaskar/MujocoHand_sign_language.git)
 
 ---
 
