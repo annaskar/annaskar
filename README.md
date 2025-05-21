@@ -38,7 +38,7 @@ Git, SQL, MuJoCo, VS Code
 
 ## 📂 Projects (Coming Soon!)
 
-- 🌦️ **Weather Forecast App**  
+- 🌦️ **[Weather Forecast App]**  (https://github.com/annaskar/Weatherapp/tree/main)
   Get real-time weather data using public APIs
 
 - 📁 **File Organizer**  
